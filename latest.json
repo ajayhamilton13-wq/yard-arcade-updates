@@ -1,7 +1,7 @@
 {
- "versionCode": 14,
- "versionName": "2.0",
- "notes": "v2.0: ads added (watch an ad for bonus rewards)",
- "size": 5777338,
+ "versionCode": 15,
+ "versionName": "2.1",
+ "notes": "v2.1: driving controls, suspension and ragdoll crashes",
+ "size": 5784078,
  "apk": "https://github.com/ajayhamilton13-wq/yard-arcade-updates/raw/main/YardArcade.apk"
 }
